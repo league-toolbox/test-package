@@ -1,0 +1,10 @@
+{
+  "name": "test-package",
+  "title": "Test package",
+  "version": "0.0.1",
+  "description": "Test description",
+  "main": "index.html",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.6.1"
+  }
+}
