@@ -3,5 +3,8 @@
   "title": "Test package",
   "version": "0.0.1",
   "description": "Test description",
-  "main": "index.html"
+  "main": "index.html",
+  "dependencies": {
+    "file-size": "^1.0.0"
+  }
 }
