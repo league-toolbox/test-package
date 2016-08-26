@@ -4,7 +4,7 @@
   "description": "Test description",
   "author": "Pupix",
   "repository": "league-toolbox/test-package",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.html",
   "dependencies": {
     "file-size": "^1.0.0"
