@@ -1,8 +1,10 @@
 {
   "name": "test-package",
   "title": "Test package",
-  "version": "0.0.1",
   "description": "Test description",
+  "author": "Pupix",
+  "repository": "league-toolbox/test-package",
+  "version": "0.0.2",
   "main": "index.html",
   "dependencies": {
     "file-size": "^1.0.0"
